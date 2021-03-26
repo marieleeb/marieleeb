@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @marieleeb, I currently am a M.Eng student at Polytechnique Montreal
-- 👀 I’m interested in Computer Vision 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R and Data Science skills
